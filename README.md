@@ -1,5 +1,5 @@
 # TimeSeriesProject
-Predicting the Temperature 
+Predicting the Temperature .
 Develop an Time Series model to predict Temperature. Carry out time-series analysis in Python and interpreting the results, based on the data in question. Forecast the future based on patterns observed in the past. Comprehend stationarity and how to test for its existence. Few queries executed are as follows :
 .
 .
